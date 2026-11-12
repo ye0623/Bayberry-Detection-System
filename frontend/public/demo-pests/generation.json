@@ -1,0 +1,26 @@
+{
+  "mode": "built-in image_gen",
+  "purpose": "AI-generated illustrative samples for a classroom demo; not real field photographs or an image diagnosis system.",
+  "assets": [
+    {
+      "file": "brown-spot.png",
+      "prompt": "Use case: scientific-educational. Asset type: one standalone simulated disease observation image for a Chinese bayberry (Myrica rubra / Morella rubra) orchard classroom web demo. Create a naturalistic botanical close-up illustration with realistic textures and soft daylight, clearly composed like an educational field observation illustration rather than a diagnostic claim. Landscape 4:3 framing, full-bleed, subject large and centered, blurred green orchard background. No collage, no text, no labels, no border, no watermark, no people. Bayberry leaves are narrow oblong leathery green leaves; fruits are red with densely bumpy surface, not raspberries with large drupelets. Show a bayberry twig bearing several elongated green leaves with scattered round-to-irregular brown necrotic leaf spots and a few pale centers, alongside one mostly healthy leaf for comparison. Focus on leaf lesions, no insects."
+    },
+    {
+      "file": "canker.png",
+      "prompt": "Use case: scientific-educational. Asset type: one standalone simulated disease observation image for a Chinese bayberry (Myrica rubra / Morella rubra) orchard classroom web demo. Create a naturalistic botanical close-up illustration with realistic textures and soft daylight, clearly composed like an educational field observation illustration rather than a diagnostic claim. Landscape 4:3 framing, full-bleed, subject large and centered, blurred green orchard background. No collage, no text, no labels, no border, no watermark, no people. Bayberry leaves are narrow oblong leathery green leaves; fruits are red with densely bumpy surface, not raspberries with large drupelets. Show a bayberry woody branch close-up bearing a conspicuous irregular rough woody tumor-like swelling on the branch; remaining narrow green foliage slightly blurred. Localized branch gall, not a human tumor and not mushrooms. No insects."
+    },
+    {
+      "file": "leafroller.png",
+      "prompt": "Use case: scientific-educational. Asset type: one standalone simulated disease observation image for a Chinese bayberry (Myrica rubra / Morella rubra) orchard classroom web demo. Create a naturalistic botanical close-up illustration with realistic textures and soft daylight, clearly composed like an educational field observation illustration rather than a diagnostic claim. Landscape 4:3 framing, full-bleed, subject large and centered, blurred green orchard background. No collage, no text, no labels, no border, no watermark, no people. Bayberry leaves are narrow oblong leathery green leaves; fruits are red with densely bumpy surface, not raspberries with large drupelets. Show a bayberry leaf rolled into a tube and partially joined with fine silken webbing, a small green caterpillar partly visible within, and neighboring leaves with modest chewing damage. Believable small insect scale, focus rolled leaf."
+    },
+    {
+      "file": "fruit-fly.png",
+      "prompt": "Use case: scientific-educational. Asset type: one standalone simulated disease observation image for a Chinese bayberry (Myrica rubra / Morella rubra) orchard classroom web demo. Create a naturalistic botanical close-up illustration with realistic textures and soft daylight, clearly composed like an educational field observation illustration rather than a diagnostic claim. Landscape 4:3 framing, full-bleed, subject large and centered, blurred green orchard background. No collage, no text, no labels, no border, no watermark, no people. Bayberry leaves are narrow oblong leathery green leaves; fruits are red with densely bumpy surface, not raspberries with large drupelets. Show two ripe red bumpy Chinese bayberry fruits on a twig and a tiny tan fruit fly resting on one fruit, plus a naturally split overripe fruit with one tiny cream-colored larva subtly visible. Biologically plausible insect scale, not giant fly, no gore."
+    },
+    {
+      "file": "healthy.png",
+      "prompt": "Use case: scientific-educational. Asset type: healthy reference image for a Chinese bayberry orchard classroom web demo. Create one naturalistic botanical close-up illustration with realistic textures and soft daylight, landscape 4:3 full bleed. Show three intact healthy ripe red Chinese bayberry (Myrica rubra / Morella rubra) fruits attached to a twig, with healthy narrow oblong leathery green leaves. Fruits have densely fine bumpy surfaces characteristic of Chinese bayberry, not large raspberry drupelets. Clean normal fruit surfaces: no rot, no dark sunken lesions, no split flesh, no insects, no larvae, no leaf spots, no woody galls. Soft blurred green orchard background. Subject centered and large. This is a simulated educational healthy comparator, not a clinical diagnostic reference. No text, no labels, no watermark, no collage, no people."
+    }
+  ]
+}

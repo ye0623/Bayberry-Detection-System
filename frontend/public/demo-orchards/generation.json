@@ -1,0 +1,14 @@
+{
+  "mode": "built-in image_gen",
+  "purpose": "Fictional orchard covers for sample orchard records; not documentary photographs of specific farms.",
+  "assets": [
+    {
+      "name": "riverside-orchard",
+      "prompt": "Use case: photorealistic-natural. Asset type: wide cover photograph-style illustration for a Chinese bayberry orchard web project. Create one standalone 16:9 landscape full-bleed scene, natural realistic agricultural photography, soft early summer daylight, lush evergreen bayberry trees with narrow leathery leaves and some ripe red to burgundy fine-bumpy Myrica rubra fruit visible at realistic scale. Broad orchard setting readable at thumbnail size; no giant fruit dominating the whole scene. No people, no text, no labels, no borders, no logos, no watermark. This is a fictional orchard visual, not a documentary photograph of a specific real farm. Scene: a serene creek-side bayberry orchard in a green Zhejiang countryside valley, a narrow clear shallow stream and grassy bank visible along one side, well-spaced mature rounded orchard trees on gently undulating flat ground, a small branch with a few dark-red bayberries in the near foreground but orchard and creek remain the main subjects. Fresh verdant tones, natural depth, slightly elevated wide view."
+    },
+    {
+      "name": "foothill-orchard",
+      "prompt": "Use case: photorealistic-natural. Asset type: wide cover photograph-style illustration for a Chinese bayberry orchard web project. Create one standalone 16:9 landscape full-bleed scene, natural realistic agricultural photography, soft early summer daylight, lush evergreen bayberry trees with narrow leathery leaves and some ripe red to burgundy fine-bumpy Myrica rubra fruit visible at realistic scale. Broad orchard setting readable at thumbnail size; no giant fruit dominating the whole scene. No people, no text, no labels, no borders, no logos, no watermark. This is a fictional orchard visual, not a documentary photograph of a specific real farm. Scene: a Chinese bayberry orchard on gentle foothill slopes with staggered mature rounded trees following terrain contours, distant layered green mountain ridges and a narrow earth footpath through the orchard. A few ripe large red bayberries visible among foliage near the lower foreground at believable scale, but broad orchard landscape remains the main subject. Warm soft daylight and rich green tones, realistic rural Zhejiang scenery."
+    }
+  ]
+}

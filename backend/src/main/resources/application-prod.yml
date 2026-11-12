@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: ${MYSQL_URL:jdbc:mysql://localhost:3306/bayberry?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai}
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: ${MYSQL_USER:root}
+    password: ${MYSQL_PASSWORD}
+  sql:
+    init:
+      mode: always
+      encoding: UTF-8
+app:
+  simulation-enabled: ${SIMULATION_ENABLED:false}
+  seed-enabled: ${SEED_ENABLED:false}

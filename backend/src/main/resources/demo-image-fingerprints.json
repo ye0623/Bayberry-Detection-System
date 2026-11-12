@@ -1,0 +1,27 @@
+[
+  {
+    "path": "/demo-pests/healthy.png",
+    "sha256": "2774f567285db43f67c31127993ad086cbb912cc7967ca2ed5d82e1b09cf70b6",
+    "scenario": "健康"
+  },
+  {
+    "path": "/demo-pests/brown-spot.png",
+    "sha256": "fa6bd66793427e65926537f6db85a435929452dddf77c41f449850c291e67b45",
+    "scenario": "褐斑病"
+  },
+  {
+    "path": "/demo-pests/canker.png",
+    "sha256": "3bbb40a9642924d1ec9d6f356129d86714deced9da947a1ca9874cff0a71f7ae",
+    "scenario": "癌肿病"
+  },
+  {
+    "path": "/demo-pests/leafroller.png",
+    "sha256": "9d378cfb154d7c9351e84e5b676b5e15b5fe2d3b150809676491df4a831a350c",
+    "scenario": "卷叶蛾"
+  },
+  {
+    "path": "/demo-pests/fruit-fly.png",
+    "sha256": "505c8ad5b889bd29c9e58268705f15490a642883821a74d06432c6fddcbe4614",
+    "scenario": "果蝇"
+  }
+]

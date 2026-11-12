@@ -1,0 +1,5 @@
+-- 仅供已有旧版MySQL数据库升级执行一次；全新库与H2启动自动建表，无需执行。
+ALTER TABLE app_user ADD COLUMN enabled BOOLEAN NOT NULL DEFAULT TRUE;
+ALTER TABLE app_user ADD COLUMN created_at TIMESTAMP NULL;
+ALTER TABLE app_user ADD COLUMN last_login_at TIMESTAMP NULL;
+ALTER TABLE app_user ADD COLUMN login_count BIGINT NOT NULL DEFAULT 0;

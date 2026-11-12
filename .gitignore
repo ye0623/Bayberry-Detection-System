@@ -1,0 +1,19 @@
+backend/target/
+backend/uploads/
+frontend/node_modules/
+frontend/dist/
+.runtime/
+*.log
+*.pid
+
+# Local release archives and extracted copies
+/bayberry-iot-demo.zip
+/bayberry-iot-demo/
+
+# Local secrets and editor/OS state
+.env
+.env.*
+!.env.example
+.idea/
+.DS_Store
+Thumbs.db
